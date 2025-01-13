@@ -1,0 +1,3 @@
+[submodule "NSUT-CanteenManagement"]
+	path = NSUT-CanteenManagement
+	url = https://github.com/TechSubham/NSUT-CanteenManagement
